@@ -37,4 +37,7 @@ https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-42-mun.
 [13] ./json/sp.json
 https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-35-mun.json
 
+[14] Tabelas da Divisão Territorial Brasileira 2020
+https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2020/DTB_2020_v2.zip
+
 * Dados agregados a partir de dados da fonte
