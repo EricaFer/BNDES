@@ -1,5 +1,6 @@
 # Large File
-Analysis/Analysis_1/data/operacoes-financiamento-operacoes-indiretas-automaticas.csv
+Analysis/Analysis_1/data/operacoes-automaticas.csv
+Analysis/Analysis_1/data/DTB_2020_v2.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
