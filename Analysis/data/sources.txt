@@ -1,0 +1,40 @@
+[1] desembolsos-mensais.csv
+https://dadosabertos.bndes.gov.br/dataset/desembolsos-mensais/resource/aac5c7bd-5d18-41c3-9720-52d20470427e
+
+[2] RAW_PAM_1990-2019.zip *
+https://sidra.ibge.gov.br/tabela/5457
+
+[3] operacoes-nao-automaticas.csv
+https://dadosabertos.bndes.gov.br/dataset/0f335c85-92a8-4343-9423-f073fb40774e/resource/332d446e-d340-46ef-af64-ee6f36e7bd50/download/operacoes-financiamento-operacoes-nao-automaticas.csv
+
+[4] operacoes-indiretas-automaticas.csv
+https://dadosabertos.bndes.gov.br/datastore/dump/9534f677-9525-4bf8-a3aa-fd5d3e152a93?bom=True
+
+[5] ./json/ba.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-29-mun.json
+
+[6] ./json/es.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-32-mun.json
+
+[7] ./json/go.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-52-mun.json
+
+[8] ./json/mg.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-31-mun.json
+
+[9] ./json/pr.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-41-mun.json
+
+[10] ./json/rj.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-33-mun.json
+
+[11] ./json/rs.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-43-mun.json
+
+[12] ./json/sc.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-42-mun.json
+
+[13] ./json/sp.json
+https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-35-mun.json
+
+* Dados agregados a partir de dados da fonte
